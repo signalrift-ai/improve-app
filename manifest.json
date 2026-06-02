@@ -2,7 +2,8 @@
   "name": "IM-PROVE",
   "short_name": "IM-PROVE",
   "description": "Your personal goals tracker from daily habits to life ambitions.",
-  "start_url": "/",
+  "start_url": "/improve-app/index.html",
+  "scope": "/improve-app/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0a0a0f",
@@ -21,7 +22,5 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
-  ],
-  "categories": ["productivity", "lifestyle"],
-  "screenshots": []
+  ]
 }
